@@ -10,7 +10,7 @@ Hello! I'm Bezriche Ramy 🚀, a passionate computer science student 💻 specia
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bezriche-ramy&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bezriche-ramy&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bezriche-ramy&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=3&custom_title=Most%20Used%20Languages&hide=other&card_width=300)
+ramy&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=3&custom_title=Most%20Used%20Languages&hide=other&card_width=300)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
