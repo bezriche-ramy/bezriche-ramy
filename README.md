@@ -1,23 +1,29 @@
 <!-- ----------------------------------------------------- -->
-<!-- HEADER: Animated Gradient Wave with Your Name -->
+<!-- HEADER: Cyber Wave + Typing Animation -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f2ff,000000&height=280&section=header&text=Bezriche%20Ramy&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20%7C%20Frontend%20%7C%20Arch%20Linux&descAlign=50&descAlignY=65&descSize=25" width="100%" />
+  
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+@+USTHB+🎓;Cybersecurity+Enthusiast+%26+Pentester+🔐;Frontend+Developer+(React+%2F+Next.js)+⚛️;Arch+Linux+User+(I+use+Arch+btw)+🐧;GDG+Algiers+Membre+🗣️&center=true&width=600&height=50&color=00f2ff&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- ----------------------------------------------------- -->
-<!-- TYPING ANIMATION: Rotates through your roles -->
+<!-- TROPHY CASE (New!) -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+@+USTHB+🎓;Cybersecurity+Enthusiast+%26+Pentester+🔐;Frontend+Developer+(React+%2F+Next.js)+⚛️;Arch+Linux+User+(I+use+Arch+btw)+🐧;GDG+Algiers+Comm+Manager+🗣️&center=true&width=600&height=50&color=00f2ff&vCenter=true&size=22" alt="Typing SVG" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bezriche-ramy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
   </a>
 </div>
 
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- SOCIAL LINKS: Modern Badges -->
+<!-- SOCIALS -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <a href="https://linkedin.com/in/ramy-bezriche" target="_blank">
@@ -36,7 +42,7 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- ABOUT ME: Professional & Personal -->
+<!-- ABOUT ME -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <h3>🚀 About Me</h3>
@@ -72,7 +78,7 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- TECH STACK: High-Quality Skill Icons -->
+<!-- TECH STACK (Best Icons) -->
 <!-- ----------------------------------------------------- -->
 <h2 align="center">⚡ Technical Arsenal</h2>
 <div align="center">
@@ -94,16 +100,16 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- GITHUB STATS: Live Data for 'bezriche-ramy' -->
+<!-- GITHUB STATS (Maxed Out) -->
 <!-- ----------------------------------------------------- -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bezriche-ramy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff" height="160" alt="Ramy's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bezriche-ramy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff" height="160" alt="Stats" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezriche-ramy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezriche-ramy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff" height="160" alt="Languages" />
 </div>
 
 <!-- Streak Stats -->
@@ -115,12 +121,20 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- FOOTER: Activity Graph & Waving Bottom -->
+<!-- SNAKE ANIMATION & VISITOR COUNT -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
-  <h3>📉 Contribution History</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezriche-ramy&bg_color=0D1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true" width="100%" />
+  <h3>🐍 Contribution Graph</h3>
+  <!-- IMPORTANT: See setup instructions below for the snake to appear -->
+  <img src="https://github.com/bezriche-ramy/bezriche-ramy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   
   <br/>
+  
+  <!-- Profile Views Counter -->
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=00f2ff&label_color=0D1117" alt="Profile Views" />
+  
+  <br/> <br/>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00f2ff,0D1117&height=100&section=footer" width="100%" />
 </div>
