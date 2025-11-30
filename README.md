@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- SOCIAL LINKS: NEW MODERN ICONS -->
+<!-- SOCIAL LINKS: FIXED & MODERN -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <a href="https://linkedin.com/in/ramy-bezriche" target="_blank">
@@ -36,11 +36,6 @@
   &nbsp;
   <a href="mailto:ramybezriche@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
-  </a>
-  <!-- Added Discord just in case you use it -->
-  &nbsp;
-  <a href="https://discord.com">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord"/>
   </a>
 </div>
 
@@ -83,7 +78,7 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- TECH STACK (Matches Socials) -->
+<!-- TECH STACK -->
 <!-- ----------------------------------------------------- -->
 <h2 align="center">⚡ Technical Arsenal</h2>
 <div align="center">
@@ -105,22 +100,21 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS: FIXED SERVER MIRROR -->
 <!-- ----------------------------------------------------- -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bezriche-ramy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff" height="160" alt="Stats" />
+  <!-- Using 'github-readme-stats-eight.vercel.app' mirror to fix timeout issues -->
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=bezriche-ramy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff" height="160" alt="Stats" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezriche-ramy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff" height="160" alt="Languages" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=bezriche-ramy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff" height="160" alt="Languages" />
 </div>
 
-<!-- Streak Stats -->
+<!-- Streak Stats: Using 'streak-stats.demolab.com' -->
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezriche-ramy&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bezriche-ramy&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" alt="Streak" />
 </div>
 
 <br/>
