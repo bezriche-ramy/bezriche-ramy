@@ -104,11 +104,6 @@
 <!-- ----------------------------------------------------- -->
 <h2 align="center">🖥️ System Status</h2>
 
-<div align="center">
-  <!-- This uses a different server (Metrics) that is NOT broken -->
-  <img src="https://metrics.lecoq.io/bezriche-ramy?template=terminal&base=header,activity,community,repositories,metadata&config.timezone=Africa%2FAlgiers" alt="Ramy's Terminal Stats" width="100%" />
-</div>
-
 <br/>
 
 <!-- Streak Stats (Usually works, keeping it separately) -->
