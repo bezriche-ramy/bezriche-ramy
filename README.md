@@ -1,79 +1,97 @@
-# ⚡ Hey there! I'm Bezriche Ramy
-
+<!-- HEADER: Dynamic Waving Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header&text=Cybersecurity%20%7C%20Full-Stack%20%7C%20Design&fontSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Bezriche%20Ramy&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
-### 👨‍💻 About Me
-
-I'm a Computer Science student specialising in **Cybersecurity** 🔐 at **USTHB**. As a **Full-Stack Developer**, I bridge the gap between robust backend logic and sleek frontend experiences.
-
-- 🔭 **Currently working on:** Advanced E-commerce platforms and Event Management systems using **Next.js** & **Supabase**.
-- 🛡️ **Cybersec Focus:** Exploring Network Security and Pentesting (daily driving **Arch Linux** & **Kali** 🐧).
-- 🤝 **Community:** Communication Manager for **GDG Algiers** 🇩🇿 and Creative Designer at **Shellmatt**.
-- 💼 **Experience:** Former Intern at **Djezzy** (Telecommunications).
-- ⚡ **Fun fact:** When I'm not debugging code, I'm likely optimizing my **Dark Souls** build or creating content for TikTok! 🎮📹
-
----
-
-### 🌐 Connect with me
-<p align="center">
-<a href="https://linkedin.com/in/ramy-bezriche"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/r_a_a_my"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:ramybezriche@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Technical Arsenal
-
-#### 🎨 Frontend & Design
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-#### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-#### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### 🐧 Tools & OS
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<!-- TYPING TEXT ANIMATION -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramy-bezriche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ramy's Github Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramy-bezriche&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student+@+USTHB+🔐;Frontend+Developer+(React+%2F+Next.js)+⚛️;Arch+Linux+Daily+Driver+🐧;GDG+Algiers+Comm+Manager+🗣️&center=true&width=600&height=50&color=0072ff&vCenter=true&size=25" alt="Typing SVG" />
+  </a>
 </div>
 
-### ✍️ Random Dev Quote
-<!-- You can use a quote API like readme-jokes here -->
+<br/>
+
+<!-- ABOUT ME SECTION -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <h3>🚀 Welcome to My Digital Space</h3>
+  <p width="600px">
+    I am a <b>Computer Science Student</b> specializing in <b>Cybersecurity</b> at USTHB, with a passion for building stunning web interfaces. <br/>
+    My workflow blends the <b>creative</b> (Frontend/Design) with the <b>technical</b> (Linux/Security).
+  </p>
+
+  ---
+  
+  <p align="left">
+    &nbsp;&nbsp;🔭 &nbsp;<b>Currently Working On:</b> Advanced E-commerce platforms & Secure Event Systems<br/>
+    &nbsp;&nbsp;🐧 &nbsp;<b>Daily Drivers:</b> Arch Linux (Custom Hyprland) & Kali Linux<br/>
+    &nbsp;&nbsp;🎨 &nbsp;<b>Community:</b> Design Dept @ <b>Shellmatt</b> | Comm Manager @ <b>GDG Algiers</b><br/>
+    &nbsp;&nbsp;💼 &nbsp;<b>Experience:</b> Former Intern @ <b>Djezzy</b> (Telecommunications)<br/>
+    &nbsp;&nbsp;🧠 &nbsp;<b>Learning:</b> Penetration Testing & Advanced Next.js Patterns
+  </p>
 </div>
 
----
+<br/>
+
+<!-- TECH STACK: The "Best" Icons (SkillIcons) -->
+<h2 align="center">⚡ The Arsenal</h2>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ramy-bezriche&label=Profile%20Views&color=00bfbf&icon=5&pretty=true" />
+  <p><b>Frontend & Design</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,figma,html,css,js,ts&perline=10" />
+  
+  <br/><br/>
+  
+  <p><b>Backend, Database & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,postgres,mongodb,git,github,vscode,postman&perline=10" />
+  
+  <br/><br/>
+  
+  <p><b>Systems & Cybersecurity</b></p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,c,cpp,python,java,bash,arduino&perline=10" />
+</div>
+
+<br/>
+<br/>
+
+<!-- GITHUB STATS: Dark/Blue Theme -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ramy-bezriche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0072ff&icon_color=00c6ff" height="170" alt="Ramy's Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramy-bezriche&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0072ff" height="170" alt="Top Languages" />
+</div>
+
+<!-- STREAK STATS -->
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramy-bezriche&theme=tokyonight&hide_border=true&background=0d1117&ring=0072ff&fire=00c6ff&currStreakLabel=0072ff" alt="GitHub Streak" />
+</div>
+
+<br/>
+<br/>
+
+<!-- SOCIAL CONNECT -->
+<div align="center">
+  <a href="https://linkedin.com/in/ramy-bezriche">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/r_a_a_my">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ramybezriche@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- FOOTER SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramy-bezriche&bg_color=0d1117&color=0072ff&line=00c6ff&point=ffffff&hide_border=true" width="100%" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=80&section=footer" width="100%" />
 </div>
