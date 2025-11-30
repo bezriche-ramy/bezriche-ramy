@@ -23,19 +23,24 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- SOCIALS -->
+<!-- SOCIAL LINKS: NEW MODERN ICONS -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <a href="https://linkedin.com/in/ramy-bezriche" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/r_a_a_my" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:ramybezriche@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+  </a>
+  <!-- Added Discord just in case you use it -->
+  &nbsp;
+  <a href="https://discord.com">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord"/>
   </a>
 </div>
 
@@ -78,7 +83,7 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- TECH STACK (Best Icons) -->
+<!-- TECH STACK (Matches Socials) -->
 <!-- ----------------------------------------------------- -->
 <h2 align="center">⚡ Technical Arsenal</h2>
 <div align="center">
@@ -100,7 +105,7 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- GITHUB STATS (Maxed Out) -->
+<!-- GITHUB STATS -->
 <!-- ----------------------------------------------------- -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
