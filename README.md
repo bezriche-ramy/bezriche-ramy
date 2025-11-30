@@ -12,7 +12,7 @@
 </div>
 
 <!-- ----------------------------------------------------- -->
-<!-- TROPHY CASE (New!) -->
+<!-- TROPHY CASE -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -121,17 +121,15 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- SNAKE ANIMATION & VISITOR COUNT -->
+<!-- FOOTER: Contribution Graph & Visitor Count -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
-  <h3>🐍 Contribution Graph</h3>
-  <!-- IMPORTANT: See setup instructions below for the snake to appear -->
-  <img src="https://github.com/bezriche-ramy/bezriche-ramy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <h3>📉 Contribution History</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezriche-ramy&bg_color=0D1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true" width="100%" />
   
-  <br/>
-  
+  <br/> <br/>
+
   <!-- Profile Views Counter -->
-  <br />
   <img src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=00f2ff&label_color=0D1117" alt="Profile Views" />
   
   <br/> <br/>
