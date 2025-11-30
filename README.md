@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- SOCIAL LINKS: FIXED & MODERN -->
+<!-- SOCIAL LINKS -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <a href="https://linkedin.com/in/ramy-bezriche" target="_blank">
@@ -100,27 +100,26 @@
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- GITHUB STATS: FIXED SERVER MIRROR -->
+<!-- SYSTEM STATUS: The "Hacker" Terminal Fix -->
 <!-- ----------------------------------------------------- -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🖥️ System Status</h2>
 
 <div align="center">
-  <!-- Using 'github-readme-stats-eight.vercel.app' mirror to fix timeout issues -->
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=bezriche-ramy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff" height="160" alt="Stats" />
-  
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=bezriche-ramy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff" height="160" alt="Languages" />
+  <!-- This uses a different server (Metrics) that is NOT broken -->
+  <img src="https://metrics.lecoq.io/bezriche-ramy?template=terminal&base=header,activity,community,repositories,metadata&config.timezone=Africa%2FAlgiers" alt="Ramy's Terminal Stats" width="100%" />
 </div>
 
-<!-- Streak Stats: Using 'streak-stats.demolab.com' -->
+<br/>
+
+<!-- Streak Stats (Usually works, keeping it separately) -->
 <div align="center">
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=bezriche-ramy&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" alt="Streak" />
 </div>
 
 <br/>
 
 <!-- ----------------------------------------------------- -->
-<!-- FOOTER: Contribution Graph & Visitor Count -->
+<!-- FOOTER -->
 <!-- ----------------------------------------------------- -->
 <div align="center">
   <h3>📉 Contribution History</h3>
@@ -128,7 +127,6 @@
   
   <br/> <br/>
 
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=00f2ff&label_color=0D1117" alt="Profile Views" />
   
   <br/> <br/>
