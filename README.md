@@ -1,110 +1,80 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f2ff,000000&height=280&section=header&text=Bezriche%20Ramy&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20%7C%20Frontend%20%7C%20Arch%20Linux&descAlign=50&descAlignY=65&descSize=25"
-    width="100%"
-    alt="Header"
-  />
+<h1 align="center">Ramy Bezriche</h1>
+<p align="center">
+  Computer Science Student @ USTHB<br />
+  JavaScript Developer | Cybersecurity Focus
+</p>
 
-  <br />
-
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+@+USTHB;Cybersecurity+Enthusiast+%26+Pentester;Frontend+Developer+(React+%2F+Next.js);Arch+Linux+User+(I+use+Arch+btw);GDG+Algiers+Member&center=true&width=700&height=50&color=00f2ff&vCenter=true&size=22"
-      alt="Typing Animation"
-    />
+<p align="center">
+  <a href="https://linkedin.com/in/ramy-bezriche">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=bezriche-ramy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-      width="100%"
-      alt="Trophies"
-    />
+  <a href="https://instagram.com/r_a_a_my">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://linkedin.com/in/ramy-bezriche" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/r_a_a_my" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
-  </a>
-  &nbsp;
   <a href="mailto:ramybezriche@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
+</p>
 
-<br />
+## Profile
 
-## About Me
+- I build modern web apps with JavaScript and TypeScript.
+- I focus on security-minded architecture and clean frontend delivery.
+- I work across React, Next.js, Node.js, and API-driven systems.
 
-I am a **Computer Science Student** at **USTHB**, focused on **Cybersecurity** and modern **JavaScript** development.
+## JavaScript Stack
 
-I build secure systems end-to-end:
-- clean frontend experiences with **React / Next.js**
-- scalable backend APIs with **Node.js**
-- security-first thinking across architecture and deployment
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-<br />
+## Featured Repositories
 
-## Technical Arsenal
+<p align="center">
+  <a href="https://github.com/bezriche-ramy/ecowebdz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=ecowebdz&theme=github_dark&hide_border=true" alt="ecowebdz" />
+  </a>
+  <a href="https://github.com/bezriche-ramy/djezzy-web-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=djezzy-web-site&theme=github_dark&hide_border=true" alt="djezzy-web-site" />
+  </a>
+</p>
 
-<div align="center">
-  <p><b>Frontend & Design</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,figma,html,css,js,ts&perline=10&theme=dark" alt="Frontend Stack" />
+<p align="center">
+  <a href="https://github.com/bezriche-ramy/new-port">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=new-port&theme=github_dark&hide_border=true" alt="new-port" />
+  </a>
+  <a href="https://github.com/bezriche-ramy/ecom_womans">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=ecom_womans&theme=github_dark&hide_border=true" alt="ecom_womans" />
+  </a>
+</p>
 
-  <br /><br />
+<p align="center">
+  <a href="https://github.com/bezriche-ramy/medhi_doctor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=medhi_doctor&theme=github_dark&hide_border=true" alt="medhi_doctor" />
+  </a>
+  <a href="https://github.com/bezriche-ramy/Taawba">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=Taawba&theme=github_dark&hide_border=true" alt="Taawba" />
+  </a>
+</p>
 
-  <p><b>Backend & Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,postgres,mongodb,firebase&perline=10&theme=dark" alt="Backend Stack" />
+## GitHub Stats
 
-  <br /><br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bezriche-ramy&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezriche-ramy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
 
-  <p><b>Systems, Security & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,kali,c,cpp,python,java,git,github,bash,vscode&perline=11&theme=dark" alt="Tools and Systems" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bezriche-ramy&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
-<br />
-
-## System Status
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=bezriche-ramy&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff"
-    alt="GitHub Streak"
-  />
-</div>
-
-<br />
-
-## Contribution History
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bezriche-ramy&bg_color=0D1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true"
-    width="100%"
-    alt="Activity Graph"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=00f2ff&label_color=0D1117"
-    alt="Profile Views"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00f2ff,0D1117&height=100&section=footer"
-    width="100%"
-    alt="Footer"
-  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" alt="Profile views" />
+</p>
