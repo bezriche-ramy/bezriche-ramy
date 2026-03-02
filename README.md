@@ -1,130 +1,110 @@
-<!-- ----------------------------------------------------- -->
-<!-- HEADER: Cyber Wave + Typing Animation -->
-<!-- ----------------------------------------------------- -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f2ff,000000&height=280&section=header&text=Bezriche%20Ramy&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20%7C%20Frontend%20%7C%20Arch%20Linux&descAlign=50&descAlignY=65&descSize=25" width="100%" />
-  
-  <br/>
-  
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f2ff,000000&height=280&section=header&text=Bezriche%20Ramy&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20%7C%20Frontend%20%7C%20Arch%20Linux&descAlign=50&descAlignY=65&descSize=25"
+    width="100%"
+    alt="Header"
+  />
+
+  <br />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+@+USTHB+🎓;Cybersecurity+Enthusiast+%26+Pentester+🔐;Frontend+Developer+(React+%2F+Next.js)+⚛️;Arch+Linux+User+(I+use+Arch+btw)+🐧;GDG+Algiers+Membre+🗣️&center=true&width=600&height=50&color=00f2ff&vCenter=true&size=22" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+@+USTHB;Cybersecurity+Enthusiast+%26+Pentester;Frontend+Developer+(React+%2F+Next.js);Arch+Linux+User+(I+use+Arch+btw);GDG+Algiers+Member&center=true&width=700&height=50&color=00f2ff&vCenter=true&size=22"
+      alt="Typing Animation"
+    />
   </a>
 </div>
 
-<!-- ----------------------------------------------------- -->
-<!-- TROPHY CASE -->
-<!-- ----------------------------------------------------- -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bezriche-ramy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=bezriche-ramy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+      width="100%"
+      alt="Trophies"
+    />
   </a>
 </div>
 
-<br/>
+<br />
 
-<!-- ----------------------------------------------------- -->
-<!-- SOCIAL LINKS -->
-<!-- ----------------------------------------------------- -->
 <div align="center">
   <a href="https://linkedin.com/in/ramy-bezriche" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://instagram.com/r_a_a_my" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:ramybezriche@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
 </div>
 
-<br/>
+<br />
 
-<!-- ----------------------------------------------------- -->
-<!-- ABOUT ME -->
-<!-- ----------------------------------------------------- -->
-<div align="center">
-  <h3>🚀 About Me</h3>
-  <p width="600px">
-    I am a <b>Computer Science Student</b> at <b>USTHB</b> specializing in <b>Cybersecurity</b>. <br/> 
-    I bridge the gap between <b>secure backend systems</b> and <b>stunning frontend designs</b>.
-  </p>
-</div>
+## About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>👨‍💻 The Dev Side</h3>
-        <ul>
-          <li><b>Current Focus:</b> Building secure E-commerce & Event platforms.</li>
-          <li><b>Frontend:</b> Mastering <b>Next.js</b> & <b>Figma</b> designs.</li>
-          <li><b>Backend:</b> Scalable APIs with <b>Supabase</b> & <b>Node.js</b>.</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h3>🕵️ The Cyber Side</h3>
-        <ul>
-          <li><b>OS:</b> Daily driving <b>Arch Linux</b> & <b>Kali</b>.</li>
-          <li><b>Interests:</b> Network Security, CTFs, & Pentesting.</li>
-          <li><b>Community:</b> Active in <b>GDG Algiers</b> & <b>Shellmatt</b>.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+I am a **Computer Science Student** at **USTHB**, focused on **Cybersecurity** and modern **JavaScript** development.
 
-<br/>
+I build secure systems end-to-end:
+- clean frontend experiences with **React / Next.js**
+- scalable backend APIs with **Node.js**
+- security-first thinking across architecture and deployment
 
-<!-- ----------------------------------------------------- -->
-<!-- TECH STACK -->
-<!-- ----------------------------------------------------- -->
-<h2 align="center">⚡ Technical Arsenal</h2>
+<br />
+
+## Technical Arsenal
+
 <div align="center">
   <p><b>Frontend & Design</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,figma,html,css,js,ts&perline=10&theme=dark" />
-  
-  <br/><br/>
-  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,figma,html,css,js,ts&perline=10&theme=dark" alt="Frontend Stack" />
+
+  <br /><br />
+
   <p><b>Backend & Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,postgres,mongodb,firebase&perline=10&theme=dark" />
-  
-  <br/><br/>
-  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,postgres,mongodb,firebase&perline=10&theme=dark" alt="Backend Stack" />
+
+  <br /><br />
+
   <p><b>Systems, Security & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,kali,c,cpp,python,java,git,github,bash,vscode&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,c,cpp,python,java,git,github,bash,vscode&perline=11&theme=dark" alt="Tools and Systems" />
 </div>
 
-<br/>
-<br/>
+<br />
 
-<!-- ----------------------------------------------------- -->
-<!-- SYSTEM STATUS: The "Hacker" Terminal Fix -->
-<!-- ----------------------------------------------------- -->
-<h2 align="center">🖥️ System Status</h2>
+## System Status
 
-<br/>
-
-<!-- Streak Stats (Usually works, keeping it separately) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=bezriche-ramy&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" alt="Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=bezriche-ramy&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff"
+    alt="GitHub Streak"
+  />
 </div>
 
-<br/>
+<br />
 
-<!-- ----------------------------------------------------- -->
-<!-- FOOTER -->
-<!-- ----------------------------------------------------- -->
+## Contribution History
+
 <div align="center">
-  <h3>📉 Contribution History</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezriche-ramy&bg_color=0D1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true" width="100%" />
-  
-  <br/> <br/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bezriche-ramy&bg_color=0D1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true"
+    width="100%"
+    alt="Activity Graph"
+  />
 
-  <img src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=00f2ff&label_color=0D1117" alt="Profile Views" />
-  
-  <br/> <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00f2ff,0D1117&height=100&section=footer" width="100%" />
+  <br /><br />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=00f2ff&label_color=0D1117"
+    alt="Profile Views"
+  />
+
+  <br /><br />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00f2ff,0D1117&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </div>
