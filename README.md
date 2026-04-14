@@ -1,80 +1,50 @@
 <h1 align="center">Ramy Bezriche</h1>
+
 <p align="center">
-  Computer Science Student @ USTHB<br />
-  JavaScript Developer | Cybersecurity Focus
+  Computer Science Student at USTHB<br />
+  JavaScript / TypeScript Developer with a cybersecurity mindset
+</p>
+
+<p align="center">
+  I build web products, dashboards, and backend services with a focus on clean UI, practical architecture, and security-aware decisions.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ramy-bezriche">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/r_a_a_my">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:ramybezriche@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-## Profile
+## About
 
-- I build modern web apps with JavaScript and TypeScript.
-- I focus on security-minded architecture and clean frontend delivery.
-- I work across React, Next.js, Node.js, and API-driven systems.
+- I enjoy building polished frontend experiences that still stay simple and maintainable.
+- I care about authentication, API design, and security-minded full-stack architecture.
+- I work mostly with JavaScript, TypeScript, React, Next.js, Node.js, Astro, and Python.
+- I like turning student projects and product ideas into real demos that can be explored online.
 
-## JavaScript Stack
+## Current Focus
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+- Building stronger full-stack portfolio projects with better UX and cleaner repository quality
+- Exploring Python OCR, automation, and backend workflows
+- Growing at the intersection of web development and cybersecurity
 
-## Featured Repositories
+## Selected Projects
 
-<p align="center">
-  <a href="https://github.com/bezriche-ramy/ecowebdz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=ecowebdz&theme=github_dark&hide_border=true" alt="ecowebdz" />
-  </a>
-  <a href="https://github.com/bezriche-ramy/djezzy-web-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=djezzy-web-site&theme=github_dark&hide_border=true" alt="djezzy-web-site" />
-  </a>
-</p>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [EcoWeb DZ](https://github.com/bezriche-ramy/ecowebdz) | Multilingual storefront with a seller dashboard, public checkout flow, and secure Supabase-backed user isolation. [Live demo](https://ecowebdz.vercel.app) | Astro, Express, Supabase |
+| [Shams Task](https://github.com/bezriche-ramy/shams_task) | Task management dashboard backed by Google Sheets with role-based flows for users, teams, and task updates. [Live demo](https://shams-task.vercel.app) | React, TypeScript, Express |
+| [FlashOCR](https://github.com/bezriche-ramy/ocr) | FastAPI OCR pipeline that extracts text from images, PDFs, and videos, then classifies documents into structured results. | Python, FastAPI, OCR |
+| [VetCare Clinic](https://github.com/bezriche-ramy/medhi_doctor) | Responsive bilingual veterinary clinic website with appointment booking and a clear service-first experience. [Live demo](https://medhi-doctor.vercel.app) | React, Vite |
+| [Calling Interview Platform](https://github.com/bezriche-ramy/Calling-Interview-Platform) | Real-time interview platform concept for recruiters and candidates built around remote technical interviews. | Next.js, TypeScript |
 
-<p align="center">
-  <a href="https://github.com/bezriche-ramy/new-port">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=new-port&theme=github_dark&hide_border=true" alt="new-port" />
-  </a>
-  <a href="https://github.com/bezriche-ramy/ecom_womans">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=ecom_womans&theme=github_dark&hide_border=true" alt="ecom_womans" />
-  </a>
-</p>
+## Stack
 
-<p align="center">
-  <a href="https://github.com/bezriche-ramy/medhi_doctor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=medhi_doctor&theme=github_dark&hide_border=true" alt="medhi_doctor" />
-  </a>
-  <a href="https://github.com/bezriche-ramy/Taawba">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bezriche-ramy&repo=Taawba&theme=github_dark&hide_border=true" alt="Taawba" />
-  </a>
-</p>
+`JavaScript` `TypeScript` `React` `Next.js` `Astro` `Node.js` `Express` `Python` `FastAPI` `Supabase` `Tailwind CSS` `Vercel`
 
-## GitHub Stats
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bezriche-ramy&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezriche-ramy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bezriche-ramy&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bezriche-ramy&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" alt="Profile views" />
-</p>
+If you want to talk about web apps, frontend engineering, backend systems, or cybersecurity, reach me on [LinkedIn](https://linkedin.com/in/ramy-bezriche) or by [email](mailto:ramybezriche@gmail.com).
