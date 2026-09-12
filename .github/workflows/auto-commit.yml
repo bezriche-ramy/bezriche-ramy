@@ -1,0 +1,38 @@
+name: Auto Daily Commit
+
+on:
+  schedule:
+    # Runs everyday at 20:00 UTC (21:00 Algiers time)
+    - cron: '0 20 * * *'
+  workflow_dispatch: # Allows manual triggering from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update activity timestamp
+        run: |
+          mkdir -p .github
+          echo "Last activity: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .github/activity.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "bezriche-ramy"
+          git config --global user.email "ramybezriche@gmail.com"
+          git add .github/activity.txt
+          
+          # Only commit and push if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(activity): daily contribution [skip ci]"
+            git push origin main
+          fi
