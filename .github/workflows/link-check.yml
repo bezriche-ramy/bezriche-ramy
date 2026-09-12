@@ -1,0 +1,32 @@
+name: Check profile links
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub schedules use UTC. Two Monday checks and four Sunday checks.
+    - cron: "17 8,18 * * 1"
+    - cron: "17 2,8,14,20 * * 0"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-link-check
+  cancel-in-progress: true
+
+jobs:
+  links:
+    name: Verify README links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --exclude 'https://github.com/bezriche-ramy/bezriche-ramy/output/.*'
+            README.md
+          fail: true

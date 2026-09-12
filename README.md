@@ -1,78 +1,72 @@
-<h1 align="center">Ramy Bezriche</h1>
+<h1 align="center">Hey, I'm Ramy Bezriche 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&center=true&vCenter=true&width=900&lines=Computer+Science+student+at+USTHB;Building+full-stack+web+products;Exploring+OCR%2C+security%2C+and+backend+systems;Turning+ideas+into+real+working+demos" alt="Typing intro" />
+  <strong>Computer Science student at USTHB · Full-stack developer · Security enthusiast</strong>
 </p>
 
 <p align="center">
-  I build modern web apps, dashboards, automation tools, and backend experiments with a strong interest in clean UI, practical architecture, and security-aware engineering.
+  I build dependable web products, backend systems, and automation tools—with a focus on clean interfaces, practical architecture, and secure data flows.
 </p>
 
 <p align="center">
-  Public work, private builds, and experiments all live here.
+  <a href="https://linkedin.com/in/ramy-bezriche"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ramybezriche@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Ramy" /></a>
+  <a href="https://github.com/bezriche-ramy?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </p>
 
-## What I Build
+## About me
 
-- Full-stack web products with React, Next.js, Astro, Node.js, and Supabase
-- Backend tools and experiments with Python, FastAPI, Flask, and automation workflows
-- Student and personal projects around OCR, cybersecurity, telecom dashboards, and product design
+- 🎓 Studying Computer Science at the University of Science and Technology Houari Boumediene (USTHB)
+- 🛠️ Building full-stack products with JavaScript, TypeScript, React, Node.js, and Python
+- 🔐 Interested in application security, OCR pipelines, APIs, and observable backend systems
+- 🌍 Based in Algiers, Algeria
+- 🤝 Open to internships, collaborations, and interesting product ideas
 
-## Project Radar
+## Selected work
 
-| Project | What it does | Stack | Live |
-| --- | --- | --- | --- |
-| [EcoWeb DZ](https://github.com/bezriche-ramy/ecowebdz) | Multilingual storefront with a seller dashboard, public checkout, and secure Supabase-backed user isolation. | Astro, Express, Supabase | [Demo](https://ecowebdz.vercel.app) |
-| [Shams Task](https://github.com/bezriche-ramy/shams_task) | Task management dashboard backed by Google Sheets with user roles, teams, and task tracking flows. | React, TypeScript, Express | [Demo](https://shams-task.vercel.app) |
-| [FlashOCR](https://github.com/bezriche-ramy/ocr) | FastAPI OCR pipeline that extracts text from images, PDFs, and videos, then classifies document types. | Python, FastAPI, OCR | - |
-| [Djezzy Smart KPI Dashboard](https://github.com/bezriche-ramy/djezzy-web-site) | JWT-authenticated KPI dashboard with anomaly checks, TWAMP health APIs, and data-driven monitoring views. | JavaScript, Express, Chart.js | - |
-| [Algeria National Football Team](https://github.com/bezriche-ramy/algeria_nationel_team) | Interactive football website with team history, 3D trophy models, player information, and responsive UI. | React, Three.js, Vite | - |
-| [New Port](https://github.com/bezriche-ramy/new-port) | Animated personal portfolio with motion-driven sections, smooth scrolling, and a custom front-end presentation style. | React, GSAP, Framer Motion, Tailwind CSS | - |
-| [VetCare Clinic](https://github.com/bezriche-ramy/medhi_doctor) | Bilingual veterinary clinic website with booking flows, testimonials, and mobile-friendly layout. | React, Vite | [Demo](https://medhi-doctor.vercel.app) |
-| [Crypto Client-Server System](https://github.com/bezriche-ramy/crypto-project-python-version) | Secure communication lab with multiple encryption algorithms and real-time client/server messaging. | Python, Cryptography | - |
+| Project | Highlights | Built with |
+| :--- | :--- | :--- |
+| **[EcoWeb DZ](https://github.com/bezriche-ramy/ecowebdz)** · [Live demo](https://ecowebdz.vercel.app) | Multilingual storefront with seller tooling, public checkout, and isolated user data. | Astro, Express, Supabase |
+| **[Shams Task](https://github.com/bezriche-ramy/shams_task)** · [Live demo](https://shams-task.vercel.app) | Role-based task management dashboard backed by Google Sheets. | React, TypeScript, Express |
+| **[FlashOCR](https://github.com/bezriche-ramy/ocr)** | Extracts and classifies text from images, PDFs, and video through a FastAPI pipeline. | Python, FastAPI, OCR |
+| **[Djezzy Smart KPI](https://github.com/bezriche-ramy/djezzy-web-site)** | Authenticated telecom monitoring dashboard with anomaly detection and TWAMP health APIs. | Express, Chart.js, JWT |
+| **[Algeria National Team](https://github.com/bezriche-ramy/algeria_nationel_team)** | Interactive football experience featuring team history, players, and 3D trophies. | React, Three.js, Vite |
+| **[Crypto Client–Server](https://github.com/bezriche-ramy/crypto-project-python-version)** | Secure-messaging lab exploring multiple encryption algorithms and real-time communication. | Python, Cryptography |
 
-## Private Builds
+## Tech I work with
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| `Trackyal` | Parcel tracking system with Guepex API integration, tracking history, caching, quota monitoring, and a responsive frontend. | JavaScript, Express, API Integration |
-| `Meliport` | Portfolio website for a medical student built with animated sections and a polished presentation flow. | React, Vite, GSAP |
-| `Trading Dashboard` | Arabic trading journal with charts, privacy mode, account metrics, and cross-device persistence through GitHub-backed storage. | React, Tailwind CSS, Recharts |
-| `D & B Auto Service` | Business website for an auto repair company with service pages, SEO-focused metadata, and multi-page routing. | React, React Router, Vite |
-| `Telegram Alerts` | Options alert scanner that evaluates contracts and sends rule-based notifications to Telegram channels. | Python, Asyncio, Telegram |
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,nodejs,express,python,fastapi,flask,supabase,tailwind,threejs,git&perline=14" alt="JavaScript, TypeScript, React, Next.js, Astro, Node.js, Express, Python, FastAPI, Flask, Supabase, Tailwind CSS, Three.js, and Git" />
+</p>
+
+## Beyond the code
+
+I enjoy turning rough ideas into usable demos, especially when a project combines a polished interface with interesting backend logic. Recent themes in my work include e-commerce, operational dashboards, document processing, real-time communication, and security.
 
 <details>
-<summary>More builds and experiments</summary>
+<summary><strong>More projects</strong></summary>
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [MedQSM](https://github.com/bezriche-ramy/medqsm) | Frontend project deployed on Vercel and built as part of your recent web work. | React, Vite |
-| [Calling Interview Platform](https://github.com/bezriche-ramy/Calling-Interview-Platform) | Remote interview platform concept for recruiter and candidate video-based workflows. | Next.js, TypeScript |
-| [Lune](https://github.com/bezriche-ramy/lune) | YouTube downloader with a React frontend and Flask backend for MP3 and MP4 downloads. | React, Flask, Python |
-| [Simple Chat App](https://github.com/bezriche-ramy/simple-chat-app) | Real-time chat room with Flask-SocketIO, avatars, typing indicators, and shared message history. | Python, Flask, Socket.IO |
-| [Metric Calculator](https://github.com/bezriche-ramy/metric-java-project) | AST-based Java metric calculator built with JavaParser and a CLI workflow. | Java, Maven, Picocli |
-| [Taawba](https://github.com/bezriche-ramy/Taawba) | React-based web experience deployed on Vercel. | React |
-| [Ecom Womans](https://github.com/bezriche-ramy/ecom_womans) | Early e-commerce storefront experiment deployed as a frontend build. | React, Vite |
-| [Information Data Security](https://github.com/bezriche-ramy/information-data-security) | Security analysis write-up focused on the Samy MySpace worm and stored XSS behavior. | Security Research, Markdown |
-| [Mini Compilateur](https://github.com/bezriche-ramy/Projet-Compilation-MINI-COMPILATEUR) | Academic compiler project built in C. | C |
-| [Projet Web](https://github.com/bezriche-ramy/Projet-Web) | PHP-based web project from your broader academic and portfolio work. | PHP |
+<br />
+
+- [VetCare Clinic](https://github.com/bezriche-ramy/medhi_doctor) — bilingual veterinary clinic and booking experience
+- [New Port](https://github.com/bezriche-ramy/new-port) — motion-led personal portfolio built with React and GSAP
+- [Calling Interview Platform](https://github.com/bezriche-ramy/Calling-Interview-Platform) — remote interview workflow for recruiters and candidates
+- [Simple Chat App](https://github.com/bezriche-ramy/simple-chat-app) — real-time rooms, presence, and typing indicators with Flask-SocketIO
+- [Metric Calculator](https://github.com/bezriche-ramy/metric-java-project) — Java CLI for AST-based source-code metrics
+- [Mini Compilateur](https://github.com/bezriche-ramy/Projet-Compilation-MINI-COMPILATEUR) — academic compiler project written in C
 
 </details>
 
-## Toolbox
-
-`JavaScript` `TypeScript` `React` `Next.js` `Astro` `Node.js` `Express` `Python` `FastAPI` `Flask` `Supabase` `Tailwind CSS` `Three.js` `Vite` `Java`
-
-## Fun Zone
+## Contribution graph
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bezriche-ramy/bezriche-ramy/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bezriche-ramy/bezriche-ramy/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bezriche-ramy/bezriche-ramy/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/bezriche-ramy/bezriche-ramy/output/github-snake.svg" alt="Animation of Ramy's GitHub contribution graph" />
   </picture>
 </p>
 
-- Current mix: web apps, dashboards, OCR pipelines, and security-flavored experiments
-- Favorite repo themes: product UI, backend logic, data flows, and practical problem-solving
-- Goal for this profile: make every pinned project easier to understand in a few seconds
+<p align="center">
+  <em>Have a project in mind? <a href="mailto:ramybezriche@gmail.com">Let's talk.</a></em>
+</p>
