@@ -2,7 +2,9 @@ name: Auto Daily Commit
 
 on:
     schedule:
-        # Runs everyday at 20:00 UTC (21:00 Algiers time)
+        # Runs at 3:00 PM Algiers time (14:00 UTC)
+        - cron: "0 14 * * *"
+        # Runs at 9:00 PM Algiers time (20:00 UTC)
         - cron: "0 20 * * *"
     workflow_dispatch: # Allows manual triggering from Actions tab
 
