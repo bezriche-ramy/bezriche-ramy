@@ -28,5 +28,6 @@ jobs:
           args: >-
             --no-progress
             --exclude 'https://github.com/bezriche-ramy/bezriche-ramy/output/.*'
+            --exclude 'linkedin.com'
             README.md
           fail: true

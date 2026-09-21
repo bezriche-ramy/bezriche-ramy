@@ -28,7 +28,7 @@
 | :--- | :--- | :--- |
 | **[EcoWeb DZ](https://github.com/bezriche-ramy/ecowebdz)** · [Live demo](https://ecowebdz.vercel.app) | Multilingual storefront with seller tooling, public checkout, and isolated user data. | Astro, Express, Supabase |
 | **[Shams Task](https://github.com/bezriche-ramy/shams_task)** · [Live demo](https://shams-task.vercel.app) | Role-based task management dashboard backed by Google Sheets. | React, TypeScript, Express |
-| **[FlashOCR](https://github.com/bezriche-ramy/ocr)** | Extracts and classifies text from images, PDFs, and video through a FastAPI pipeline. | Python, FastAPI, OCR |
+| **FlashOCR** | Extracts and classifies text from images, PDFs, and video through a FastAPI pipeline. | Python, FastAPI, OCR |
 | **[Djezzy Smart KPI](https://github.com/bezriche-ramy/djezzy-web-site)** | Authenticated telecom monitoring dashboard with anomaly detection and TWAMP health APIs. | Express, Chart.js, JWT |
 | **[Algeria National Team](https://github.com/bezriche-ramy/algeria_nationel_team)** | Interactive football experience featuring team history, players, and 3D trophies. | React, Three.js, Vite |
 | **[Crypto Client–Server](https://github.com/bezriche-ramy/crypto-project-python-version)** | Secure-messaging lab exploring multiple encryption algorithms and real-time communication. | Python, Cryptography |
