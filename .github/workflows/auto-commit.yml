@@ -2,14 +2,21 @@ name: Auto Daily Commit
 
 on:
     schedule:
-        # Runs at 3:00 PM Algiers time (14:00 UTC)
-        - cron: "0 14 * * *"
-        # Runs at 9:00 PM Algiers time (20:00 UTC)
-        - cron: "0 20 * * *"
+        # GitHub delays or drops runs that start exactly on the hour, so use
+        # off-peak minutes and several runs per day. Extra runs are harmless.
+        - cron: "23 6 * * *"
+        - cron: "41 10 * * *"
+        - cron: "13 14 * * *"
+        - cron: "37 18 * * *"
+        - cron: "53 21 * * *"
     workflow_dispatch: # Allows manual triggering from Actions tab
 
 permissions:
     contents: write
+
+concurrency:
+    group: auto-daily-commit
+    cancel-in-progress: false
 
 jobs:
     auto-commit:
@@ -36,5 +43,6 @@ jobs:
                   # Only commit and push if there are changes
                   if ! git diff --staged --quiet; then
                     git commit -m "chore(activity): daily contribution [skip ci]"
+                    git pull --rebase origin main
                     git push origin main
                   fi
